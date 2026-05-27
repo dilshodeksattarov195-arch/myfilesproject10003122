@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservetch",
+        "uuid": 8878968,
+        "checksum": "kzkubs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
